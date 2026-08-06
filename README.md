@@ -1,16 +1,31 @@
 # Competitive Programming
 
-This repository contains my solutions to problems solved on Codeforces and other coding platforms.
+Welcome to my Competitive Programming repository! 🚀
+
+This repository contains my C++ solutions to problems solved on various coding platforms as I improve my problem-solving skills and prepare for coding interviews.
 
 ## Platforms
+
 - Codeforces
-- Leetcode
-- Teacher's Day Coding Challenge 2025
+- LeetCode
+
+## Current Challenge
+
+📌 Teacher's Day Coding Challenge 2025 (PAT Cell, VIT Bhopal)
 
 ## Language
+
 - C++
 
-## Goals
-- Improve problem-solving skills
-- Build consistency
-- Prepare for coding interviews
+## Repository Structure
+
+```
+Competitive-Programming
+│
+├── Codeforces
+├── LeetCode
+├── README.md
+└── .gitignore
+```
+
+Thank you for visiting! 😊
