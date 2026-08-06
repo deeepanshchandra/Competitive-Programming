@@ -2,7 +2,7 @@
 
 Welcome to my Competitive Programming repository! 🚀
 
-This repository contains my C++ solutions to problems solved on various coding platforms as I improve my problem-solving skills and prepare for coding interviews.
+This repository contains my C++ solutions to problems solved on various competitive programming platforms as I improve my problem-solving skills and prepare for coding interviews.
 
 ## Platforms
 
