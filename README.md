@@ -4,6 +4,7 @@ This repository contains my solutions to problems solved on Codeforces and other
 
 ## Platforms
 - Codeforces
+- Leetcode
 - Teacher's Day Coding Challenge 2025
 
 ## Language
