@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string s,t;
+    cin>>s;
+    cin>>t;
+
+    for()
+    return 0;
+}
